@@ -1,0 +1,14 @@
+{
+  "name": "stripe-sample",
+  "version": "0.1.0",
+  "dependencies": {
+    "@stripe/react-stripe-js": "^1.0.0",
+    "@stripe/stripe-js": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "stripe": "^7.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
